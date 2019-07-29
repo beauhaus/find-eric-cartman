@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 
-// import Header from "./Header"; <Header />
 import Game from "./GameComponent";
 import Prompt from "./Prompt";
 import emojiArray from "./data/emoticonDB";

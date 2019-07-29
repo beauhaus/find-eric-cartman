@@ -12,7 +12,3 @@ function App() {
 }
 
 ReactDOM.render(<App />, document.getElementById("root"));
-
-/* <Header />
-<Game />
-<Foot /> */
