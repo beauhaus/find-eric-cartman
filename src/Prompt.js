@@ -1,11 +1,11 @@
 import React from "react";
 
-const Footer = () => {
+const Prompt = () => {
   return (
     <div>
-      <h1>Find Eric Cartman & Click!</h1>
+      <h1>Find Eric Cartman & Click</h1>
     </div>
   );
 };
 
-export default Footer;
+export default Prompt;
