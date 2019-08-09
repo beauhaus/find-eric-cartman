@@ -11,6 +11,7 @@ const StyledGameComponent = styled.div`
     margin: 0 auto;
   }
 `;
+
 const GameComponent = props => {
   return (
     <StyledGameComponent className="game-wrapper">
